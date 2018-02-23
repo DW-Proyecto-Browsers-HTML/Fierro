@@ -1,0 +1,13 @@
+
+Para tener en cuenta al momento de instalar CX.
+
+1.Seguir el paso a paso del manual adjunto.
+2.Despues de instalar la aplicación, validar que el servicio “CX Cliente(Sinc)” se encuentre instalado, 
+  de no estarlo ejecutar el archivo “cx_install.bat” como administrador (carpeta C:\CX_INDEX_V5\cx_install\Sysdir)
+3.Reiniciar el servicio “CX Cliente(Sinc)” después de que este se encuentre instalado y se haya ejecutado 
+  la aplicación CX, esto con el fin de garantizar la generación de los Log’s.
+4.Validar que se estén generando los Log’s en la ruta “C:\v5\temp_cx”.
+5.Realizar pruebas de funcionamiento.
+
+Es necesario tener en cuenta las observaciones anteriores para así garantizar el correcto funcionamiento de 
+ la aplicación y no tener novedades.
